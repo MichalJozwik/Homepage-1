@@ -1,0 +1,115 @@
+html {
+  box-sizing: border-box;
+}
+
+*, ::after, ::before {
+  box-sizing: inherit;
+}
+
+
+
+
+
+.body {
+    margin: auto;
+    max-width: 1000px;
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    line-height: 2;
+    color: #333;
+  }
+  
+  .dark {
+    color: white;
+    background-color: black;
+  }
+  
+  .tableCell {
+    border: 2px solid rgb(112, 106, 145);
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .caption {
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 15px;
+  }
+  
+  .tableHeader {
+    background-color: crimson;
+    color: white;
+    font-weight: normal;
+  }
+  
+  .tableRow:nth-child(even) {
+    background-color: rgb(247, 242, 242);
+  }
+  
+  .tableRow:hover {
+    background-color: rgb(179, 172, 172);
+  }
+  
+  .container {
+    overflow-x: auto;
+  }
+  
+  .element {
+    width: 300px;
+    height: 200px;
+    text-shadow: 2px 3px 6px blue;
+    width: 300px;
+    height: 200px;
+    box-shadow: 10px 10px 43px 11px rgba(204, 43, 83, 0.94);
+    margin: 60px auto;
+  }
+  
+  .listItem {
+    margin: 2px 80px;
+  }
+  
+  .list {
+    padding-left: 60px;
+    
+  }
+
+  .element6 {
+    max-width: 300px;
+    background: gray;
+    padding: 20px;
+    margin: 100px auto;
+  }
+  
+  .kalkulator { 
+    flex-basis: 300px;
+    margin:20px;
+    padding: 40px;
+    text-align: center;
+     align-items: center;
+   background-color: 
+   rgb(247, 250, 250);
+     border-radius: 30px;
+     box-shadow: 0 0 20px black
+   }
+    
+   .contener2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image:url("../images/converter.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+          margin: auto;
+          max-width: 700px;
+          font-family: "Lato", sans-serif;
+      border-collapse: collapse;
+  } 
+  

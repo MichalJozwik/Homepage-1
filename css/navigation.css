@@ -1,0 +1,24 @@
+.navigation {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 10px;
+   }
+   
+   
+   .navigation_list {
+     list-style: none;
+     padding-left: 0px;
+   }
+   
+   .navigation_item {
+     margin: 5px;
+   }
+   
+   .navigation_link {
+     text-decoration: none;
+   }
+   
+   .navigation_link--słodycze.navigation_link--słodycze {
+     color: crimson;
+   }
+   .
