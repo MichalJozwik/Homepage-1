@@ -1,6 +1,9 @@
 # Homepage
 
+
+![enter image description here] <link rel="icon" href="images/telefon.png">
 # DEMO
+
 https://michaljozwik.github.io/Homepage-1/
 
 
@@ -9,8 +12,8 @@ This is the first page I created. This is where you will be able to see the prog
 
 # Features
 
-HTML
-CSS
-JavaScript
-BEM convention
-Normalize
+- HTML
+- CSS
+- JavaScript
+- BEM convention
+- Normalize
