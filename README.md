@@ -1,7 +1,7 @@
 # Homepage
 
 
-![enter image description here] <link rel="icon" href="images/telefon.png">
+!<link rel="icon" href="images/telefon.png">
 # DEMO
 
 https://michaljozwik.github.io/Homepage-1/
